@@ -9,7 +9,7 @@ run `pytest tests/`
 3. To run a specific function inside a test, call 
 `pytest test_mod.py::test_func`
 
-#Add Marker 
+# Add Marker 
 if you want to run a specif no of tests only, add marker.
 You can find examples in test folder, 
 To run all tests with marker `slow`, call 
